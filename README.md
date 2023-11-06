@@ -69,4 +69,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 ### Please Note:
-Github page may not run due to react routing. In my PC, the react router worked fine. While checking app, take a good look on that.
+Github page may not run due to react routing. In my PC, the react router worked fine but, in github pages, router is not effective. While checking app, take a good look on that.
